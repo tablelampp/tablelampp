@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👋 Hi, I’m Yonas<br>👀 Some of my hobbies include basketball, football/soccer, and coding!<br>🌱 I’m currently learning uhhh<br>📫 Reach me at yonasasmelashy@gmail.com<br>⚡ Fun fact: I can move my ears
+👋 Hi, I’m Yonas<br>👀 Some of my hobbies include basketball, football/soccer, and coding!<br>🌱 I’m currently learning uhhh<br>📫 ⚡ Fun fact: I can move my ears
 
 <br/>
 
