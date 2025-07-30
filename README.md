@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-👋 Hi, I’m Yonas<br>👀 Some of my hobbies include basketball, football/soccer, and coding!<br>🌱 I’m currently learning uhhh<br>⚡Fun fact: I can move my ears and solve a Rubik's Cube <br> 📫Check out my projects below!<br>
+👋 Hi, I’m Yonas<br>👀 Some of my hobbies include basketball, football/soccer, reading, and coding!<br>🌱 I’m currently learning uhhh<br>⚡Fun fact: I can move my ears and solve a Rubik's Cube <br> 📫Check out my projects below!<br>
 
 <br/>
 
